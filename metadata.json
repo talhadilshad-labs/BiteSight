@@ -1,0 +1,5 @@
+{
+  "name": "BiteSight",
+  "description": "An AI-powered AR menu platform that allows customers to visualize food in augmented reality before ordering.",
+  "requestFramePermissions": ["camera"]
+}
